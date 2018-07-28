@@ -1,5 +1,4 @@
- 
-####This folder contains several different types of graphs.####
+﻿ ####This folder contains several different types of graphs.####
 
 * hep.txt – A collaboration graph crawled from arXiv.org, High Energy Physics – Theory section, from year 1991 to year 2003.
 
